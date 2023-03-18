@@ -1,1 +1,1 @@
-# Python-exercicies
+# In this repository you will find some exercicies that i used to learn some programming logic and basic python.
